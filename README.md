@@ -4,6 +4,12 @@
 
 Basic website using standard HTML5 elements with CSS3. 
 
+**Files**
+
+1. index.html
+2. style.css
+3. images folder
+
 **How to Run**
 
 1. Download all files retaining directory structure.
